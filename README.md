@@ -14,6 +14,8 @@
 
 # [Udacity-SQL-Nanodegree-Program](https://www.udacity.com/course/learn-sql--nd072)
 
+- [Deforestation Exploration and](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No1-Deforestation-Exploration)
+- [Udiddit a social news aggregator](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No2-Udiddit-A-Social-News-Aggregator)
 # [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 - [Explore Weather Trends](https://github.com/AntoniosFl/Udacity-Data-Analyst-Nanodegree-Program/tree/main/Project-No1-Exploring-Weather-Trends)
