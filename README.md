@@ -12,6 +12,11 @@
 - [A Dynamic Risk Assessment System](https://github.com/AntoniosFl/Udacity-Projects/tree/main/dynamic-risk-assessment)
 # [Predictive Analytics for Business](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t)
 
+- [Predicting Diamond Prices]()
+- [Predicting Catalog Demand]()
+- [Predicting Default Risk]()
+- [A/B Test a New Menu Launch]()
+- [Combining Predictive Techniques]()
 # [Udacity-SQL-Nanodegree-Program](https://www.udacity.com/course/learn-sql--nd072)
 
 - [Deforestation Exploration and](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No1-Deforestation-Exploration)
