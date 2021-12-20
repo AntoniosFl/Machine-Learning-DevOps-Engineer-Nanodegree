@@ -8,7 +8,7 @@
 
 - [Predict Customer Churn](https://github.com/AntoniosFl/Udacity-Projects/tree/main/predict-customer-churn)
 - [Build an ML Pipeline for Short-term Rental Prices in NYC](https://github.com/AntoniosFl/Udacity-Projects/tree/main/ml-pipeline-rental-prices-nyc)
-- [Deploying a Machine Learning Model on Heroku with FastAPI]()
+- [Deploying a Machine Learning Model on Heroku with FastAPI](https://github.com/AntoniosFl/Udacity-Projects/tree/main/ml-heroku-fastapi)
 - [A Dynamic Risk Assessment System](https://github.com/AntoniosFl/Udacity-Projects/tree/main/dynamic-risk-assessment)
 # [Predictive Analytics for Business](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t)
 
