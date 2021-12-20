@@ -10,14 +10,14 @@
 - [Build an ML Pipeline for Short-term Rental Prices in NYC](https://github.com/AntoniosFl/Udacity-Projects/tree/main/ml-pipeline-rental-prices-nyc)
 - [Deploying a Machine Learning Model on Heroku with FastAPI](https://github.com/AntoniosFl/Udacity-Projects/tree/main/ml-heroku-fastapi)
 - [A Dynamic Risk Assessment System](https://github.com/AntoniosFl/Udacity-Projects/tree/main/dynamic-risk-assessment)
-# [Predictive Analytics for Business](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t)
+# [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t)
 
 - [Predicting Diamond Prices]()
 - [Predicting Catalog Demand]()
 - [Predicting Default Risk]()
 - [A/B Test a New Menu Launch]()
 - [Combining Predictive Techniques]()
-# [Udacity-SQL-Nanodegree-Program](https://www.udacity.com/course/learn-sql--nd072)
+# [Udacity SQL Nanodegree](https://www.udacity.com/course/learn-sql--nd072)
 
 - [Deforestation Exploration and](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No1-Deforestation-Exploration)
 - [Udiddit a social news aggregator](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No2-Udiddit-A-Social-News-Aggregator)
