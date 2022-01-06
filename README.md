@@ -19,7 +19,7 @@
 - [Combining Predictive Techniques]()
 # [SQL Nanodegree](https://www.udacity.com/course/learn-sql--nd072)
 
-- [Deforestation Exploration and](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No1-Deforestation-Exploration)
+- [Deforestation Exploration](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No1-Deforestation-Exploration)
 - [Udiddit a social news aggregator](https://github.com/AntoniosFl/Udacity-SQL-Nanodegree-Program/tree/main/Project-No2-Udiddit-A-Social-News-Aggregator)
 # [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
