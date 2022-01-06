@@ -1,6 +1,6 @@
 # **Udacity-Projects**
 
-*A collection of various Udacity projects I did, as part of the Nanodegrees or simple courses I took.*
+*A collection of various Data Science and Machine Learning projects I did.*
 
 -----------------------------------------
 
