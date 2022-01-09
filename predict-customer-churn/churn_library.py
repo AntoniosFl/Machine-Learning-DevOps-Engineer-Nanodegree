@@ -1,6 +1,5 @@
 ''' This is a library of functions used for the Udacity project aimed at finding
-customers who are likely to churn. '''
-
+customers who are likely to churn named "Predict Customer Churn.'''
 
 # import libraries
 # import os
