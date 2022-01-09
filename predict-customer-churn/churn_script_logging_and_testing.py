@@ -1,6 +1,6 @@
 '''
 This is the testing and logging script for the
-Project No.1 of the MLDevOps Nanodegree!
+"Predict Customer Churn" Project of the MLDevOps Nanodegree
 '''
 import os
 import logging
