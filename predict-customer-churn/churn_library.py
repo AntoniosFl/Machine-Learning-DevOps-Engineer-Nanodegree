@@ -78,7 +78,7 @@ def perform_eda(df):
 def encoder_helper(df, category_lst, response):
     '''
     helper function to turn each categorical column into a new column with
-    propotion of churn for each category - associated with cell 15 from the notebook
+    propotion of churn for each category
 
     input:
             df: pandas dataframe
