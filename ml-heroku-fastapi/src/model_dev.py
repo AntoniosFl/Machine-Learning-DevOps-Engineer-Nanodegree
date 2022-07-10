@@ -1,8 +1,7 @@
 from sklearn.metrics import fbeta_score, precision_score, recall_score
 from sklearn.ensemble import GradientBoostingClassifier
 
-# Optional: implement hyperparameter tuning.
-
+# We could implement some hyperparameter tuning as well.
 
 def train_model(X_train, y_train):
     """
